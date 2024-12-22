@@ -6,8 +6,6 @@ import "./App.css";
 function App() {
 	const [count, setCount] = useState(0);
 	console.log("App rendered");
-	const cc = "1";
-	var dd = "2";
 	return (
 		<>
 			<div>
